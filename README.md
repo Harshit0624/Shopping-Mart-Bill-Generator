@@ -44,19 +44,4 @@ A dynamic and visually appealing bill generator for shopping marts, built with *
 
 ---
 
-## 📸 Screenshot
-
-*(Add screenshot images of your application here)*
-
----
-
-## 💡 Demo
-
-You can host this project on **GitHub Pages** or any static hosting platform to try it live.
-
----
-
-## 📄 License
-
-This project is **open-source** under the [MIT License](LICENSE).
 
